@@ -1,0 +1,86 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environments
+.env
+*.env
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+.pytype/
+
+# Pyre type checker
+.pyre/
+
+# Cython debug symbols
+cython_debug/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Streamlit
+streamlit_app/.streamlit/
+
+# Testing
+*.log
+*.csv
+*.dat
+
+# Output
+data/output/
+data/segmented_objects/
+
+# Data Files
+data/input_images/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Coverage reports
+coverage.xml
+*.cover
+*.coverage
+*.py,cover

@@ -1,0 +1,886 @@
+{
+    "objects": [
+        {
+            "id": "eb1bef25-3dc0-438e-a25b-4534966e3b61",
+            "bbox": [
+                344,
+                236,
+                423,
+                307
+            ],
+            "score": 0.9904623627662659,
+            "file_path": "data/segmented_objects\\eb1bef25-3dc0-438e-a25b-4534966e3b61.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "6c85ab61-d2ca-42c8-a0e1-947a5cf73f57",
+            "bbox": [
+                256,
+                249,
+                333,
+                312
+            ],
+            "score": 0.9895169138908386,
+            "file_path": "data/segmented_objects\\6c85ab61-d2ca-42c8-a0e1-947a5cf73f57.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "b3ae9c2c-e5a2-4f20-9c8d-c324b14a90e9",
+            "bbox": [
+                235,
+                200,
+                293,
+                250
+            ],
+            "score": 0.9883546829223633,
+            "file_path": "data/segmented_objects\\b3ae9c2c-e5a2-4f20-9c8d-c324b14a90e9.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "70d2ce6d-3412-4432-955b-73c35f6a0eb7",
+            "bbox": [
+                153,
+                281,
+                224,
+                313
+            ],
+            "score": 0.9816411733627319,
+            "file_path": "data/segmented_objects\\70d2ce6d-3412-4432-955b-73c35f6a0eb7.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "fca979f2-8156-468a-ae7a-b5f7538e23c7",
+            "bbox": [
+                39,
+                217,
+                105,
+                290
+            ],
+            "score": 0.9752069115638733,
+            "file_path": "data/segmented_objects\\fca979f2-8156-468a-ae7a-b5f7538e23c7.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "f1fd9d4e-f5f7-4280-a951-7ee7acec61fb",
+            "bbox": [
+                316,
+                204,
+                383,
+                256
+            ],
+            "score": 0.9748929738998413,
+            "file_path": "data/segmented_objects\\f1fd9d4e-f5f7-4280-a951-7ee7acec61fb.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "70f3d45e-b735-42ce-b028-1990753569f5",
+            "bbox": [
+                149,
+                175,
+                198,
+                211
+            ],
+            "score": 0.9621710181236267,
+            "file_path": "data/segmented_objects\\70f3d45e-b735-42ce-b028-1990753569f5.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "303d9f2a-4001-4e22-9e1f-1088cce4978c",
+            "bbox": [
+                206,
+                176,
+                249,
+                213
+            ],
+            "score": 0.954643726348877,
+            "file_path": "data/segmented_objects\\303d9f2a-4001-4e22-9e1f-1088cce4978c.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "697c2db4-2b92-4fca-8dab-529fac73e2dd",
+            "bbox": [
+                357,
+                110,
+                363,
+                131
+            ],
+            "score": 0.9394698739051819,
+            "file_path": "data/segmented_objects\\697c2db4-2b92-4fca-8dab-529fac73e2dd.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "7b284da1-b27c-4a39-ae93-c34521465ca8",
+            "bbox": [
+                448,
+                268,
+                474,
+                313
+            ],
+            "score": 0.9306797981262207,
+            "file_path": "data/segmented_objects\\7b284da1-b27c-4a39-ae93-c34521465ca8.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "e75b56f4-8e44-4090-9fec-e1038faecf24",
+            "bbox": [
+                74,
+                186,
+                129,
+                235
+            ],
+            "score": 0.9280539155006409,
+            "file_path": "data/segmented_objects\\e75b56f4-8e44-4090-9fec-e1038faecf24.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "1a9b75be-a61d-42f0-80e2-2072ea506268",
+            "bbox": [
+                137,
+                157,
+                179,
+                194
+            ],
+            "score": 0.9279349446296692,
+            "file_path": "data/segmented_objects\\1a9b75be-a61d-42f0-80e2-2072ea506268.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "1a51e168-73f9-4bb6-bf3b-33423c664bd8",
+            "bbox": [
+                288,
+                120,
+                298,
+                134
+            ],
+            "score": 0.9089169502258301,
+            "file_path": "data/segmented_objects\\1a51e168-73f9-4bb6-bf3b-33423c664bd8.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "cf091349-7973-4c4b-bd61-6496f0c938d3",
+            "bbox": [
+                419,
+                252,
+                449,
+                301
+            ],
+            "score": 0.9053261280059814,
+            "file_path": "data/segmented_objects\\cf091349-7973-4c4b-bd61-6496f0c938d3.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "5232f64a-42d8-46e4-86f4-b8ec31c92c16",
+            "bbox": [
+                258,
+                140,
+                297,
+                172
+            ],
+            "score": 0.8999621272087097,
+            "file_path": "data/segmented_objects\\5232f64a-42d8-46e4-86f4-b8ec31c92c16.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "ddde7f2a-9251-494d-9ee2-929b2a0eff97",
+            "bbox": [
+                298,
+                187,
+                344,
+                228
+            ],
+            "score": 0.8973386287689209,
+            "file_path": "data/segmented_objects\\ddde7f2a-9251-494d-9ee2-929b2a0eff97.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "12c96c6b-e8cd-4b6f-a807-8ca2262e620d",
+            "bbox": [
+                284,
+                168,
+                331,
+                208
+            ],
+            "score": 0.8905503749847412,
+            "file_path": "data/segmented_objects\\12c96c6b-e8cd-4b6f-a807-8ca2262e620d.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "b8646801-6b53-4300-9dbe-260c93100346",
+            "bbox": [
+                86,
+                73,
+                124,
+                121
+            ],
+            "score": 0.8904804587364197,
+            "file_path": "data/segmented_objects\\b8646801-6b53-4300-9dbe-260c93100346.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "365198d4-3347-4fd3-a206-d3f78ece8ded",
+            "bbox": [
+                442,
+                192,
+                462,
+                216
+            ],
+            "score": 0.871002197265625,
+            "file_path": "data/segmented_objects\\365198d4-3347-4fd3-a206-d3f78ece8ded.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "fcde2c3e-de43-4cc2-aa8f-7332ec15687b",
+            "bbox": [
+                150,
+                202,
+                213,
+                268
+            ],
+            "score": 0.8698431253433228,
+            "file_path": "data/segmented_objects\\fcde2c3e-de43-4cc2-aa8f-7332ec15687b.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "148fa415-ff00-4ac2-94ac-a1ad8e725e61",
+            "bbox": [
+                349,
+                180,
+                365,
+                203
+            ],
+            "score": 0.8417151570320129,
+            "file_path": "data/segmented_objects\\148fa415-ff00-4ac2-94ac-a1ad8e725e61.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "9dc3c167-7f06-4851-908f-9f2ab71bf8ba",
+            "bbox": [
+                89,
+                129,
+                125,
+                161
+            ],
+            "score": 0.8398452401161194,
+            "file_path": "data/segmented_objects\\9dc3c167-7f06-4851-908f-9f2ab71bf8ba.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "f16f6669-fd50-4de9-8be6-b38d41a17d0f",
+            "bbox": [
+                247,
+                133,
+                274,
+                158
+            ],
+            "score": 0.8353261351585388,
+            "file_path": "data/segmented_objects\\f16f6669-fd50-4de9-8be6-b38d41a17d0f.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "0bc62f1a-ba89-4d59-9c17-e550a7721b71",
+            "bbox": [
+                145,
+                143,
+                183,
+                170
+            ],
+            "score": 0.8273028135299683,
+            "file_path": "data/segmented_objects\\0bc62f1a-ba89-4d59-9c17-e550a7721b71.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "f91626d0-71d2-4717-af38-5a51d8a88457",
+            "bbox": [
+                288,
+                110,
+                298,
+                130
+            ],
+            "score": 0.8249371647834778,
+            "file_path": "data/segmented_objects\\f91626d0-71d2-4717-af38-5a51d8a88457.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "7142f7ef-82ea-4659-8d3f-970f137ee562",
+            "bbox": [
+                385,
+                203,
+                406,
+                233
+            ],
+            "score": 0.8192585110664368,
+            "file_path": "data/segmented_objects\\7142f7ef-82ea-4659-8d3f-970f137ee562.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "12900d7b-54c3-41ee-8938-a389dd905351",
+            "bbox": [
+                79,
+                142,
+                110,
+                180
+            ],
+            "score": 0.8188712000846863,
+            "file_path": "data/segmented_objects\\12900d7b-54c3-41ee-8938-a389dd905351.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "0c3daf31-413c-422d-a2bf-6d71d48acb95",
+            "bbox": [
+                305,
+                118,
+                313,
+                129
+            ],
+            "score": 0.818267285823822,
+            "file_path": "data/segmented_objects\\0c3daf31-413c-422d-a2bf-6d71d48acb95.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "5c220d10-f9ca-404d-b075-15d0447a1372",
+            "bbox": [
+                348,
+                166,
+                365,
+                200
+            ],
+            "score": 0.8065145015716553,
+            "file_path": "data/segmented_objects\\5c220d10-f9ca-404d-b075-15d0447a1372.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "c436513f-0904-443b-901d-63e5b822bfa2",
+            "bbox": [
+                305,
+                126,
+                314,
+                144
+            ],
+            "score": 0.8037651181221008,
+            "file_path": "data/segmented_objects\\c436513f-0904-443b-901d-63e5b822bfa2.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "d198bdc5-f7ec-4115-aefa-cd8bf1cd772f",
+            "bbox": [
+                200,
+                155,
+                242,
+                188
+            ],
+            "score": 0.7894081473350525,
+            "file_path": "data/segmented_objects\\d198bdc5-f7ec-4115-aefa-cd8bf1cd772f.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "d5c835c6-a54f-42c5-95ab-25bc021c731f",
+            "bbox": [
+                387,
+                222,
+                408,
+                243
+            ],
+            "score": 0.7872483134269714,
+            "file_path": "data/segmented_objects\\d5c835c6-a54f-42c5-95ab-25bc021c731f.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "16220ca6-31e4-4328-a4e7-1255f5db502c",
+            "bbox": [
+                139,
+                61,
+                155,
+                75
+            ],
+            "score": 0.7818290591239929,
+            "file_path": "data/segmented_objects\\16220ca6-31e4-4328-a4e7-1255f5db502c.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "fd4f0700-c348-409a-8d73-d53f346efffc",
+            "bbox": [
+                404,
+                188,
+                418,
+                206
+            ],
+            "score": 0.7791837453842163,
+            "file_path": "data/segmented_objects\\fd4f0700-c348-409a-8d73-d53f346efffc.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "c8f0d597-ab6b-44a7-bde2-376053a55eb7",
+            "bbox": [
+                179,
+                104,
+                205,
+                135
+            ],
+            "score": 0.7579085230827332,
+            "file_path": "data/segmented_objects\\c8f0d597-ab6b-44a7-bde2-376053a55eb7.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "4499e9fa-0f98-419a-8fad-4b38d655e64c",
+            "bbox": [
+                85,
+                113,
+                117,
+                138
+            ],
+            "score": 0.7557399868965149,
+            "file_path": "data/segmented_objects\\4499e9fa-0f98-419a-8fad-4b38d655e64c.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "8986ee91-30fd-4b71-8e60-a270d748f193",
+            "bbox": [
+                379,
+                163,
+                389,
+                178
+            ],
+            "score": 0.748210072517395,
+            "file_path": "data/segmented_objects\\8986ee91-30fd-4b71-8e60-a270d748f193.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "31b83c92-614c-4bff-a890-ad7b14603359",
+            "bbox": [
+                79,
+                41,
+                89,
+                54
+            ],
+            "score": 0.7335413098335266,
+            "file_path": "data/segmented_objects\\31b83c92-614c-4bff-a890-ad7b14603359.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "52b0b088-04ac-43aa-bca8-7441f847a81f",
+            "bbox": [
+                238,
+                124,
+                266,
+                149
+            ],
+            "score": 0.7233238816261292,
+            "file_path": "data/segmented_objects\\52b0b088-04ac-43aa-bca8-7441f847a81f.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "befed326-52c7-4ee5-8677-3de2ccef2094",
+            "bbox": [
+                422,
+                242,
+                446,
+                294
+            ],
+            "score": 0.7090975642204285,
+            "file_path": "data/segmented_objects\\befed326-52c7-4ee5-8677-3de2ccef2094.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "3bfc1d43-5a1c-44ba-b20e-3148478f8129",
+            "bbox": [
+                327,
+                144,
+                341,
+                153
+            ],
+            "score": 0.6984707117080688,
+            "file_path": "data/segmented_objects\\3bfc1d43-5a1c-44ba-b20e-3148478f8129.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "f26916a6-7186-4ace-870c-7aae1a47c340",
+            "bbox": [
+                190,
+                117,
+                226,
+                154
+            ],
+            "score": 0.6961249709129333,
+            "file_path": "data/segmented_objects\\f26916a6-7186-4ace-870c-7aae1a47c340.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "96463231-039b-43ce-99d5-8dd8474f0d5f",
+            "bbox": [
+                138,
+                132,
+                167,
+                157
+            ],
+            "score": 0.6782132387161255,
+            "file_path": "data/segmented_objects\\96463231-039b-43ce-99d5-8dd8474f0d5f.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "0025d00e-c121-4f3a-a877-75d524abb55f",
+            "bbox": [
+                63,
+                150,
+                104,
+                193
+            ],
+            "score": 0.649339497089386,
+            "file_path": "data/segmented_objects\\0025d00e-c121-4f3a-a877-75d524abb55f.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "257ebed7-71fa-40f2-8a02-e924ca8b763c",
+            "bbox": [
+                440,
+                211,
+                462,
+                241
+            ],
+            "score": 0.649278461933136,
+            "file_path": "data/segmented_objects\\257ebed7-71fa-40f2-8a02-e924ca8b763c.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "9d6abd2b-c485-427b-9c14-87e1617d9633",
+            "bbox": [
+                461,
+                159,
+                473,
+                196
+            ],
+            "score": 0.6468736529350281,
+            "file_path": "data/segmented_objects\\9d6abd2b-c485-427b-9c14-87e1617d9633.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "4b28b309-3c69-4727-ab79-4e41e0a25e69",
+            "bbox": [
+                136,
+                119,
+                167,
+                138
+            ],
+            "score": 0.6420763731002808,
+            "file_path": "data/segmented_objects\\4b28b309-3c69-4727-ab79-4e41e0a25e69.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "58106986-ea6e-4ee1-baad-2f24ca80b219",
+            "bbox": [
+                328,
+                131,
+                340,
+                147
+            ],
+            "score": 0.6398756504058838,
+            "file_path": "data/segmented_objects\\58106986-ea6e-4ee1-baad-2f24ca80b219.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "1c41497d-f13c-4ba3-8875-8c0da6e6dfa9",
+            "bbox": [
+                261,
+                172,
+                286,
+                197
+            ],
+            "score": 0.6188046932220459,
+            "file_path": "data/segmented_objects\\1c41497d-f13c-4ba3-8875-8c0da6e6dfa9.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "82d2acd0-eaa7-4d46-8525-6f686b126f44",
+            "bbox": [
+                90,
+                107,
+                119,
+                129
+            ],
+            "score": 0.6026304364204407,
+            "file_path": "data/segmented_objects\\82d2acd0-eaa7-4d46-8525-6f686b126f44.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "cbc69d8f-bb22-4d2e-962f-16d4a53a30ae",
+            "bbox": [
+                402,
+                204,
+                422,
+                231
+            ],
+            "score": 0.5933895707130432,
+            "file_path": "data/segmented_objects\\cbc69d8f-bb22-4d2e-962f-16d4a53a30ae.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "ff42abc6-8328-4398-802e-d60c684c9436",
+            "bbox": [
+                123,
+                76,
+                138,
+                92
+            ],
+            "score": 0.5810002684593201,
+            "file_path": "data/segmented_objects\\ff42abc6-8328-4398-802e-d60c684c9436.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "93d1547e-2997-48e3-9c6b-226d7e3c1b4a",
+            "bbox": [
+                61,
+                150,
+                104,
+                198
+            ],
+            "score": 0.5571333169937134,
+            "file_path": "data/segmented_objects\\93d1547e-2997-48e3-9c6b-226d7e3c1b4a.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "32622a85-37bf-435f-9bcc-1074722c083f",
+            "bbox": [
+                216,
+                92,
+                243,
+                118
+            ],
+            "score": 0.5558291673660278,
+            "file_path": "data/segmented_objects\\32622a85-37bf-435f-9bcc-1074722c083f.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "75fa2a1b-189e-48b4-8c3c-405638957122",
+            "bbox": [
+                134,
+                97,
+                160,
+                115
+            ],
+            "score": 0.5398885011672974,
+            "file_path": "data/segmented_objects\\75fa2a1b-189e-48b4-8c3c-405638957122.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "db7a7dbe-bef7-4ee0-82db-e9cd3fdc6c03",
+            "bbox": [
+                162,
+                42,
+                173,
+                52
+            ],
+            "score": 0.5314916968345642,
+            "file_path": "data/segmented_objects\\db7a7dbe-bef7-4ee0-82db-e9cd3fdc6c03.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "dc8e1e8a-6d03-4ead-8f42-558d6f9c2275",
+            "bbox": [
+                140,
+                87,
+                159,
+                95
+            ],
+            "score": 0.5284460783004761,
+            "file_path": "data/segmented_objects\\dc8e1e8a-6d03-4ead-8f42-558d6f9c2275.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "5ae5cb5a-4fb2-4336-b529-8a07ec8a2993",
+            "bbox": [
+                137,
+                107,
+                165,
+                126
+            ],
+            "score": 0.5276298522949219,
+            "file_path": "data/segmented_objects\\5ae5cb5a-4fb2-4336-b529-8a07ec8a2993.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "d74696e4-7e4c-4d1b-bdb4-abf34fee1b9d",
+            "bbox": [
+                136,
+                97,
+                158,
+                104
+            ],
+            "score": 0.5265693068504333,
+            "file_path": "data/segmented_objects\\d74696e4-7e4c-4d1b-bdb4-abf34fee1b9d.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "0f41d19c-fe5c-451a-9b9d-2a848a28b04b",
+            "bbox": [
+                325,
+                155,
+                339,
+                181
+            ],
+            "score": 0.5225287079811096,
+            "file_path": "data/segmented_objects\\0f41d19c-fe5c-451a-9b9d-2a848a28b04b.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "09ed3379-34dc-48cb-8b9c-45f23699ebe6",
+            "bbox": [
+                226,
+                74,
+                251,
+                91
+            ],
+            "score": 0.5224882364273071,
+            "file_path": "data/segmented_objects\\09ed3379-34dc-48cb-8b9c-45f23699ebe6.png",
+            "description": "Identified as: car",
+            "extracted_text": "",
+            "summary": " Description: Identified as: car. Description: Vehicle. Vehicle. Car. Car . Car . Vehicle . Car. Vehicle ."
+        },
+        {
+            "id": "d420d7a1-0d05-4748-a2f7-da63b97ecd16",
+            "bbox": [
+                138,
+                92,
+                158,
+                101
+            ],
+            "score": 0.5224588513374329,
+            "file_path": "data/segmented_objects\\d420d7a1-0d05-4748-a2f7-da63b97ecd16.png",
+            "description": "Identified as: person",
+            "extracted_text": "",
+            "summary": " Description: Identified as: person. Description:  person. Person. Describes herself as a 'person' Describes her as a person."
+        },
+        {
+            "id": "8882e807-7f61-4959-b961-8af95341ac7e",
+            "bbox": [
+                377,
+                163,
+                391,
+                192
+            ],
+            "score": 0.5201668739318848,
+            "file_path": "data/segmented_objects\\8882e807-7f61-4959-b961-8af95341ac7e.png",
+            "description": "Identified as: cat",
+            "extracted_text": "",
+            "summary": " Description: Identified as: cat . Description:  Identified as cat. Description: cat. Describes cat. Cat. Cat ."
+        }
+    ]
+}
